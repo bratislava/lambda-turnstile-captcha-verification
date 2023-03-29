@@ -1,0 +1,7 @@
+{
+  "main": "./index.mjs",
+  "type": "module",
+  "dependencies": {
+    "cf-turnstile": "^1.0.8"
+  }
+}
